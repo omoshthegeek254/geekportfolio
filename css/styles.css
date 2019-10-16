@@ -1,0 +1,50 @@
+.top-nav {
+  width: 100%;
+  background-color: black;
+  overflow:hidden;
+  padding: 12px;
+}
+
+.top-nav a {
+  float: left;
+  padding: 12px;
+  color: lightsalmon;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.top-nav a:hover {
+  background-color: antiquewhite;
+}
+
+
+.footer{
+  width: 100%;
+  background-color: black;
+  overflow:hidden;
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer a {
+  
+  padding: 12px;
+  color: lightsalmon;
+  text-decoration: none;
+  background-color: black;
+  font-size: 17px;
+  
+}
+
+
+
+.main{
+  min-height: 90vh;
+}
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}

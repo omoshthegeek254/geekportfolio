@@ -1,7 +1,7 @@
 # Elvin (OmoshtheGeek) Portfolio
 
 ## Contributor/ Developer
-
+ - This project was designed and developed  his highness Elvin Omonche AKA - OmoshtheGeek
 ## Project Description
 
 ## Setup & Installation / Environment

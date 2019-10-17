@@ -23,7 +23,7 @@
     color: red;
     background-color: antiquewhite;
 }
-#i-content{
+#i-content, #c-content {
     background-image:url(images/bgindex.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,8 +32,12 @@
 }
 
 .article {
-    background-color: lightsalmon;
-    padding: 20px auto;
+    
+    padding: 20px;
+    align-content: space-between;
+    font-size: 20px;
+    color: antiquewhite;
+    background-color: rgba(248, 249, 249, 0.4);
 }
 .head1{
     background-color: beige;
@@ -55,6 +59,34 @@
     position: relative;
     margin: auto;
 }
+
+/* contacts page styling main section */
+#c-content{
+    margin: auto;
+}
+#c-content-inner table{
+    background-color: rgba(248, 249, 249, 0.4); 
+    justify-content: space-evenly;
+    align-content: space-around;
+    padding: 30px;
+    border-radius: 20%;
+    font-size: 40px;
+    padding: 20vh;
+
+}
+th {
+    padding: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    margin: 10px;
+  }
+
+  table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
 .footer{
     margin-bottom: 0px;
     

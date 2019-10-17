@@ -9,35 +9,35 @@
 - Recent version of web browser (preferably Google Chrome)
 - Free local space of atleast 10M B
 ## Technologies used
-* This project utilises the following techlogolies during development :
+ This project utilises the following techlogolies during development :
 - HTML
 - CSS
 ## License information with a copyright and date
 - MIT
 
 ## Contact information
-* For queries ,comments compliments etc ,feel free to reach out to OmoshtheGeek on the following platforms
--  #### Twitter :
+ For queries ,comments compliments etc ,feel free to reach out to OmoshtheGeek on the following platforms
+ #### Twitter :
 * ###### @elvizoh
 
--  #### Facebook :
+#### Facebook :
 * ###### @Elvin Omoxh
 
--  #### Telegram :
+#### Telegram :
 * ###### @omoshthegeek
 
--  #### WhatsApp :
+#### WhatsApp :
 * ###### @ +254735027537
 
--  #### Slack:
+ #### Slack:
 * ###### @ Elvin Omonche
 
--  #### Git HUb :
+ #### Git HUb :
 * ###### @omoshthegeek254
 
 
 
 ## Support or contribution instructions
-* For those inspired by my projects and feel like appreciating me finacial wise, you are more than welcome to send your contributions to the platforms below :
--  #### Paypal :
+For those inspired by my projects and feel like appreciating me finacial wise, you are more than welcome to send your contributions to the platforms below :
+ #### Paypal :
 * ###### @ omoshthegeek@gmail.com

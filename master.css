@@ -23,7 +23,7 @@
     color: red;
     background-color: antiquewhite;
 }
-#i-content, #c-content {
+#i-content, #c-content ,#projects{
     background-image:url(images/bgindex.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -112,6 +112,24 @@ th {
       background-color: black;
   }
 
+/* Beginning of projects file styling */
+
+
+.p-content img{
+    height: 300px;
+    width: 500px;
+    border-radius: 10%;
+}
+
+.p-content{
+
+    padding: 30px;
+    margin: auto;
+    font-size: 5vh;
+    color: antiquewhite;
+    background-color: rgba(248, 249, 249, 0.4); 
+    border-radius: 10vh;
+}
 .footer{
     margin-bottom: 0px;
     

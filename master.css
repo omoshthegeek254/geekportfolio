@@ -23,7 +23,7 @@
     color: red;
     background-color: antiquewhite;
 }
-#i-content, #c-content ,#projects{
+#i-content, #c-content ,#projects,#skills{
     background-image:url(images/bgindex.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -130,8 +130,34 @@ th {
     background-color: rgba(248, 249, 249, 0.4); 
     border-radius: 10vh;
 }
+
+
+
 .footer{
     margin-bottom: 0px;
     
 }
+
+/* styling for skills page */
+.section{
+    
+}
+
+.intro{
+    display: flex;
+}
+
+.skills{
+    display: flex;
+    justify-content:space-between ;
+}
+.skills div{
+    
+    padding:8vh ;
+    background-color: rgba(248, 249, 249, 0.4); 
+    border-radius: 30px;
+    margin: 5vh;
+
+}
+
 

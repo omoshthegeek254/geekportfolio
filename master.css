@@ -185,4 +185,9 @@ th {
 #intro-r h2{
     font-weight: 900;
     font-size: 4vh;
+    background-blend-mode: lighten;
+}
+
+#intro-r p{
+    font-size: 3vh;
 }

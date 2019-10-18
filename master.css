@@ -56,8 +56,9 @@
 }
 
 .i-rightc, .i-leftc{
-    position: relative;
+    
     margin: auto;
+    width: 40%;
 }
 
 /* contacts page styling main section */
@@ -160,7 +161,9 @@ th {
 
 }
 
+
 .article{
     font-size: 3vh;
     border-radius: 10vh;
+    
 }

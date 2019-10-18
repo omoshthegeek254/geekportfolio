@@ -141,9 +141,7 @@ th {
 }
 
 /* styling for skills page */
-.section{
-    
-}
+
 
 .intro{
     display: flex;
@@ -182,10 +180,11 @@ th {
     margin: auto;
 }
 
-#intro-r h2{
+.article h3, #intro-r h2, .skills div h4{
     font-weight: 900;
     font-size: 4vh;
     background-blend-mode: lighten;
+    color: black;
 }
 
 #intro-r p{

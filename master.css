@@ -42,9 +42,10 @@
 .head1{
     background-color: beige;
     border: 2px dotted whitesmoke;
-    padding: 40px;
-    font-size: 50px;
-    margin-bottom: 70px;
+    padding: 5vh;
+    font-size: 4vh;
+    font-weight: 900;
+    margin-bottom: 5vh;
     border-radius: 60px;
     
 }
@@ -166,4 +167,22 @@ th {
     font-size: 3vh;
     border-radius: 10vh;
     
+}
+
+/* head intro */
+.intro{
+    background-color: rgba(248, 249, 249, 0.4);
+}
+
+#intro-l{
+    background-color: rgba(10, 10, 10, 0.808);
+}
+
+#intro-r{
+    margin: auto;
+}
+
+#intro-r h2{
+    font-weight: 900;
+    font-size: 4vh;
 }

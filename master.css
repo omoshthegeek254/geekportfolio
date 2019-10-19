@@ -185,6 +185,7 @@ th {
     font-size: 4vh;
     background-blend-mode: lighten;
     color: black;
+    animation: alternate;
 }
 
 #intro-r p{

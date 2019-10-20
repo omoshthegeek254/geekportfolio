@@ -131,6 +131,8 @@ th {
     color: antiquewhite;
     background-color: rgba(248, 249, 249, 0.4); 
     border-radius: 10vh;
+    width: 70%;
+    text-align: center;
 }
 
 
@@ -180,7 +182,7 @@ th {
     margin: auto;
 }
 
-.article h3, #intro-r h2, .skills div h4{
+.article h3, #intro-r h2, .skills div h4, .p-content h3{
     font-weight: 900;
     font-size: 4vh;
     background-blend-mode: lighten;
@@ -194,5 +196,17 @@ th {
 
 .proj-c{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    width: 100%;
+    
+}
+ 
+.proj div{
+    width: 50vh;
+}
+
+.proj span{
+    background-color: brown;
+    padding: -1vh;
+    border-radius: 20%;
 }

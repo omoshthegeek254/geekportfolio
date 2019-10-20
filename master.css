@@ -40,14 +40,15 @@
     background-color: rgba(248, 249, 249, 0.4);
 }
 .head1{
-    background-color: beige;
+    background-color: rgba(248, 249, 249, 0.4); 
     border: 2px dotted whitesmoke;
-    padding: 5vh;
+    padding: 3vh;
     font-size: 4vh;
     font-weight: 900;
     margin-bottom: 5vh;
     border-radius: 60px;
-    
+    text-align: center;
+    width: fit-content;
 }
 .avatar img{
     border-radius: 50%;
@@ -59,7 +60,7 @@
 .i-rightc, .i-leftc{
     
     margin: auto;
-    width: 40%;
+    
 }
 
 /* contacts page styling main section */
@@ -151,7 +152,7 @@ th {
 
 .skills{
     display: flex;
-    justify-content:space-between ;
+    justify-content:space-evenly;
 }
 .skills div{
     
@@ -160,6 +161,10 @@ th {
     border-radius: 30px;
     margin: 5vh;
 
+}
+
+.desc{
+    width: fit-content;
 }
 
 .desc span{
@@ -218,21 +223,35 @@ th {
 }
 
 .proj span{
-    background-color: brown;
-    padding: -1vh;
+    background-color: #4CAF50;
+    padding: 1vh;
     border-radius: 20%;
+    font-weight: 900;;
+    color: black;
+    font-size: 3vh;
 }
 
 .btn a{
     padding: 20px;
-    background-color: brown;
+    background-color: #4CAF50;
     border-radius: 40%;
     margin: 5vh;
+    font-weight: 900;;
+    color: black;
+    font-size: 2vh;
     
 }
 
-.proj p{
+
+.btn a:hover{
+    background-color: black;
+    color:lightsalmon;
+}
+.proj p ,.skills p,#art p,#art li{
     margin: 5vh;
+    font-size: 3vh;
+    color: black;
+    background-blend-mode: soft-light;
 }
 
 

@@ -131,7 +131,7 @@ th {
     color: antiquewhite;
     background-color: rgba(248, 249, 249, 0.4); 
     border-radius: 10vh;
-    width: 70%;
+    width: 90%;
     text-align: center;
 }
 
@@ -155,12 +155,19 @@ th {
 }
 .skills div{
     
-    padding:8vh ;
+    padding:3vh ;
     background-color: rgba(248, 249, 249, 0.4); 
     border-radius: 30px;
     margin: 5vh;
 
 }
+
+.desc span{
+    display: flex;
+    justify-content: space-around;
+}
+
+
 
 
 .article{
@@ -200,6 +207,11 @@ th {
     width: 100%;
     
 }
+
+/* .proj{
+    border: 2px solid black;
+    padding: 5vh;
+} */
  
 .proj div{
     width: 50vh;
@@ -210,3 +222,25 @@ th {
     padding: -1vh;
     border-radius: 20%;
 }
+
+.btn a{
+    padding: 20px;
+    background-color: brown;
+    border-radius: 40%;
+    margin: 5vh;
+    
+}
+
+.proj p{
+    margin: 5vh;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
+  }

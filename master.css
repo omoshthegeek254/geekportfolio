@@ -198,9 +198,11 @@ th {
 .article h3, #intro-r h2, .skills div h4, .p-content h3{
     font-weight: 900;
     font-size: 4vh;
-    background-blend-mode: lighten;
+    background-blend-mode: multiply;
     color: black;
-    animation: alternate;
+    text-decoration: underline;
+    color: rgb(0, 199, 7);
+    
 }
 
 #intro-r p{
@@ -230,6 +232,10 @@ th {
     font-weight: 900;;
     color: black;
     font-size: 3vh;
+}
+
+.btn{
+ margin:3vh;   
 }
 
 .btn a{

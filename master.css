@@ -2,14 +2,15 @@
     width: 100%;
     text-decoration: none;
     display: flex;
-    background-color: black;
+    background-color: #C31E3A;
     color: white;
     justify-content: center;
+    font-weight: 900;
 }
 
 #nav-tp a,#nav-bt a{
     padding: 10px;
-    color: lightsalmon;
+    color: #83D693 ;
     font-size: 25px;
     text-decoration: none;
 }
@@ -21,7 +22,7 @@
 #nav-tp a:hover, #nav-bt a:hover{
     padding: 10px;
     color: red;
-    background-color: antiquewhite;
+    background-color: black;
 }
 #i-content, #c-content ,#projects,#skills{
     background-image:url(images/bgindex.jpg) ;
@@ -248,7 +249,7 @@ th {
     color:lightsalmon;
 }
 .proj p ,.skills p,#art p,#art li{
-    margin: 5vh;
+    margin: 1vh;
     font-size: 3vh;
     color: black;
     background-blend-mode: soft-light;

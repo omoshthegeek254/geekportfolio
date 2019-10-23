@@ -2,7 +2,7 @@
     width: 100%;
     text-decoration: none;
     display: flex;
-    background-color: black;
+    background-color: #35495E;
     color: white;
     justify-content: center;
     font-weight: 900;
@@ -10,7 +10,7 @@
 
 #nav-tp a,#nav-bt a{
     padding: 10px;
-    color: #4CAF50;;
+    color: white;;
     font-size: 25px;
     text-decoration: none;
 }
@@ -24,13 +24,18 @@
     color: black;
     background-color: antiquewhite;
 }
-#i-content, #c-content ,#projects,#skills{
-    background-image:url(images/bgindex.jpg) ;
-    background-repeat: no-repeat;
-    background-size: cover;
+#skills,#i-content, #c-content ,#projects{
+   
     display: flex;
     justify-content: space-around;
+    background-color: #40BFC1;
 }
+
+/* {
+     background-image:url(images/bgindex.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
 
 .article {
     
@@ -61,6 +66,8 @@
 .i-rightc, .i-leftc{
     
     margin: auto;
+    
+
     
 }
 
@@ -184,7 +191,7 @@ th {
 
 /* head intro */
 .intro{
-    background-color: rgba(248, 249, 249, 0.4);
+    background-color: rgba(255, 111, 94, 0.4);
 }
 
 #intro-l{
@@ -199,9 +206,9 @@ th {
     font-weight: 900;
     font-size: 4vh;
     background-blend-mode: multiply;
-    color: black;
+    color:#F0134D;
     text-decoration: underline;
-    color: rgb(0, 199, 7);
+    
     
 }
 
